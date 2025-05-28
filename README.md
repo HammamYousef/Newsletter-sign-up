@@ -34,8 +34,8 @@ Users should be able to:
 ![Mobile preview](image-2.png)
 ### Links
 
-- Solution URL: <!-- Add your solution URL here -->
-- Live Site URL: <!-- Add your live site URL here -->
+- Solution URL: (https://www.frontendmentor.io/solutions/newsletter-signup-with-vanilla-js-H-tjIxlkob)
+- Live Site URL: (https://hammamyousef.github.io/Newsletter-sign-up/)
 
 ## My process
 
